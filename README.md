@@ -23,6 +23,7 @@ Documentar jornada de aprendizagem e desenvolvimento na Formação de Power BI A
       <th>Nº</th>
       <th>Etapas</th>
       <th>Materiais</th>
+        <th>Projetos</th>
     </tr>
   </thead>
   <tbody align="left">
@@ -31,9 +32,10 @@ Documentar jornada de aprendizagem e desenvolvimento na Formação de Power BI A
       <td>Analisando Dados Primeiro Projeto no Power BI</td>
       <td align="center">
         <a href="https://github.com/DeborahFernandes/Formacao_Power_BI/tree/main/M%C3%B3dulo1">
-           <img align="center" alt="Material" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
+           <img align="center" alt="Material" src="https://img.shields.io/badge/Material-30A3DC?style=for-the-badge">
+            <td align="center">
             <a href="https://github.com/DeborahFernandes/Formacao_Power_BI/blob/main/M%C3%B3dulo%202/Relat%C3%B3rio%20Sales%20Report.md">
-            <img align="center" alt="Relatório" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
+            <img align="center" alt="Relatório" src="https://img.shields.io/badge/Relatório-E94D5F?style=for-the-badge">
         </a>
       </td>
     </tr>
@@ -42,7 +44,10 @@ Documentar jornada de aprendizagem e desenvolvimento na Formação de Power BI A
       <td>Visualização de Dados e Relatórios com Power BI</td>
       <td align="center">
         <a href="https://github.com/DeborahFernandes/Formacao_Power_BI/tree/main/M%C3%B3dulo%202">
-           <img align="center" alt="Material" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
+           <img align="center" alt="Material" src="https://img.shields.io/badge/Material-30A3DC?style=for-the-badge">
+            <td align="center">
+                <a href="https://github.com/DeborahFernandes/Formacao_Power_BI/blob/main/M%C3%B3dulo%202/Relat%C3%B3rio%20Sales%20Report.md">
+            <img align="center" alt="Relatório" src="https://img.shields.io/badge/Relatório-E94D5F?style=for-the-badge">
         </a>
       </td>
     </tr>
