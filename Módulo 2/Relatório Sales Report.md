@@ -14,4 +14,6 @@ Projeto desenvolvido no curso de **Formação Power BI Analyst** da [Digital Inn
 ![Power BI](https://img.shields.io/badge/Power_BI-FFC500?style=for-the-badge&logo=power-bi&logoColor=black)
 
 
-## Relatório
+## Relatórios
+![Sales Report pg 1](https://github.com/DeborahFernandes/Formacao_Power_BI/assets/149323666/76fa699b-018b-475f-9beb-d17f63f9c3fe)
+![Sales Report pg 2](https://github.com/DeborahFernandes/Formacao_Power_BI/assets/149323666/39f2b8ce-6b5b-4ada-b87d-b34f61dbaf12)
