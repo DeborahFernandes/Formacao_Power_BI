@@ -13,7 +13,7 @@ Repositório desenvolvido para publicação de atividades e desafios do curso de
 Documentar jornada de aprendizagem e desenvolvimento na Formação de Power BI Analyst.
 
 ## Ferramentas
-[![Power BI Desktop](https://img.shields.io/badge/-Power_BI-black?logo=powerbi&logoColor=yellow)](https://powerbi.microsoft.com/pt-br/desktop/) 
+![Power BI](https://img.shields.io/badge/Power_BI-FFC500?style=for-the-badge&logo=power-bi&logoColor=black)
 
 
 ## Percurso
@@ -30,7 +30,7 @@ Documentar jornada de aprendizagem e desenvolvimento na Formação de Power BI A
       <td>01</td>
       <td>Analisando Dados Primeiro Projeto no Power BI</td>
       <td align="center">
-        <a href="https://github.com/DeborahFernandes/formacao-power-bi/tree/main/Material/Modulo%201">
+        <a href="https://github.com/DeborahFernandes/Formacao_Power_BI/tree/main/M%C3%B3dulo1">
            <img align="center" alt="Material" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
         </a>
       </td>
@@ -39,7 +39,7 @@ Documentar jornada de aprendizagem e desenvolvimento na Formação de Power BI A
       <td>02</td>
       <td>Visualização de Dados e Relatórios com Power BI</td>
       <td align="center">
-        <a href="https://github.com/DeborahFernandes/formacao-power-bi/tree/main/Material/Modulo%201">
+        <a href="https://github.com/DeborahFernandes/Formacao_Power_BI/tree/main/M%C3%B3dulo%202">
            <img align="center" alt="Material" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
         </a>
       </td>
