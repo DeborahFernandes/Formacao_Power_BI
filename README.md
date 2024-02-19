@@ -34,7 +34,7 @@ Documentar jornada de aprendizagem e desenvolvimento na Formação de Power BI A
         <a href="https://github.com/DeborahFernandes/Formacao_Power_BI/tree/main/M%C3%B3dulo1">
            <img align="center" alt="Material" src="https://img.shields.io/badge/Material-30A3DC?style=for-the-badge">
             <td align="center">
-            <a href="https://github.com/DeborahFernandes/Formacao_Power_BI/blob/main/M%C3%B3dulo%202/Relat%C3%B3rio%20Sales%20Report.md">
+            <a href="https://github.com/DeborahFernandes/Formacao_Power_BI/blob/main/M%C3%B3dulo1/Relat%C3%B3rio%20Sales%20Report.md">
             <img align="center" alt="Relatório" src="https://img.shields.io/badge/Relatório-E94D5F?style=for-the-badge">
         </a>
       </td>
